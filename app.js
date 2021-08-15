@@ -16,17 +16,17 @@ while(i >0){
         break  
     }
     else if (userNumber == randomNumber){
-        alert('😲 Ganaste.... que crack')
+        alert('✔ Ganaste.... que crack 👏')
         break
     }
     else if ( userNumber > randomNumber){
-        alert('mmmm....Muy alto... intenta un numero menor 👇')
+        alert('❌mmmm....Muy alto... intenta un numero menor 👇')
     }
     else {
-        alert('mmmm...Muy bajo... intenta un numero mayor ')
+        alert('❌mmmm...Muy bajo... intenta un numero mayor 👆')
     }
 
     }else{
-        alert('Numero invalido')
+        alert('Numero invalido😑...Igrese numero ENTERO ENTRE 1 y 10 😤')
 } 
 }
