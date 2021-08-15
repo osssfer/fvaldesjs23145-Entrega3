@@ -8,7 +8,7 @@ i=1
 
 while(i >0){
     // Input Numero del jugagador
-    let userNumber = parseInt(prompt('Ingresa un numero entero entre 1 y 10' + ' [ APRETE 0 para salir]'))
+     userNumber = parseInt(prompt('Ingresa un numero entero entre 1 y 10' + ' [ APRETE 0 para salir]'))
   
   
     if (userNumber == 0){
